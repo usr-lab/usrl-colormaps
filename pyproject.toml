@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "usrl-colormaps"
+name = "usrl_colormaps"
 version = "0.0.1"
 description = "Matolotlib colormaps for the Uppsala Social Robotics Lab."
 authors = ["Sebastian Wallkötter <sebastian.wallkotter@it.uu.se>"]
